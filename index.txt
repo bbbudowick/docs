@@ -1,1 +1,75 @@
-This will be a webpage
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Washington DC 2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        h2 {
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Washington DC 2024</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Gettysburg</h2>
+        </section>
+        <section>
+            <h2>Arlington</h2>
+        </section>
+        <section>
+            <h2>Capitol</h2>
+        </section>
+        <section>
+            <h2>Smithsonian</h2>
+        </section>
+        <section>
+            <h2>MLK</h2>
+        </section>
+        <section>
+            <h2>Jefferson</h2>
+        </section>
+        <section>
+            <h2>LBJ</h2>
+        </section>
+        <section>
+            <h2>Lincoln</h2>
+        </section>
+        <section>
+            <h2>Washington</h2>
+        </section>
+        <section>
+            <h2>WWII</h2>
+        </section>
+        <section>
+            <h2>Korean War</h2>
+        </section>
+        <section>
+            <h2>Vietnam War</h2>
+        </section>
+        <section>
+            <h2>National Harbor</h2>
+        </section>
+    </main>
+</body>
+</html>
+
