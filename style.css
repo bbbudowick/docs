@@ -24,11 +24,12 @@ li {
     margin-bottom: 5px;
 }
 
-/* Optional: Customize image styling */
+/* Centered Image Styling */
 .centered-image {
     display: block;
     margin: 20px auto; /* Center the image horizontally with a margin */
-    max-width: 100%; /* Ensure the image doesn't exceed its original size */
-    height: auto; /* Maintain aspect ratio */
+    width: 500px; /* Set the desired width */
+    height: 900px; /* Set the desired height */
+    object-fit: cover; /* Ensure the image is scaled properly */
     border-radius: 8px; /* Optional: Add rounded corners */
 }
